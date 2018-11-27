@@ -1,0 +1,35 @@
+{
+  "name": "e-commerce-platform",
+  "version": "1.0.0",
+  "description": "Group project on Single vendor E-coommerce platform",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "client-sessions": "^0.8.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "mysql": "^2.16.0",
+    "uniqid": "^5.0.3",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malintha1996/E-Commerce-Platfrom.git"
+  },
+  "keywords": [
+    "Ninja",
+    "e"
+  ],
+  "author": "malintha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malintha1996/E-Commerce-Platfrom/issues"
+  },
+  "homepage": "https://github.com/Malintha1996/E-Commerce-Platfrom#readme"
+}
